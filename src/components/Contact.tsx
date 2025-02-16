@@ -23,7 +23,7 @@ export default function Contact() {
             >
               <h3 className="text-2xl font-semibold mb-4 from-emerald-500 to-transparent">Contact Us</h3>
               <p className="text-gray-300 mb-6">
-                Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible.
+                Have questions? We&apos;d love to hear from you. Send us a message and we&apos;ll respond as soon as possible.
               </p>
               <div className="space-y-4">
                 <p className="flex items-center text-gray-300">
